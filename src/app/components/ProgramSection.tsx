@@ -1,6 +1,6 @@
 const timeline = [
   {
-    day: "D-7",
+    day: "D-0",
     label: "사전 일정",
     date: "출발 전 · 서울(거점 지역)",
     title: "전야제, 설렘의 첫 만남",
